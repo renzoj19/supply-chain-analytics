@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# Power BI: archivo temporal de bloqueo
+~$*.pbix
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini

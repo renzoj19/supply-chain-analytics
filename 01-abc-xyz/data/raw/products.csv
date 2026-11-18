@@ -1,0 +1,301 @@
+sku,description,family,business_line,uom,unit_cost_pen,supplier,lead_time_days,imported
+MAT-100001,Material médico producto 001,Material médico,Insumos,UND,13.73,PROV-011,45,True
+MAT-100002,Analgésicos producto 002,Analgésicos,Farma,UND,14.68,PROV-022,60,True
+MAT-100003,Material médico producto 003,Material médico,Insumos,UND,4.72,PROV-021,15,False
+MAT-100004,Envases producto 004,Envases,Insumos,MIL,103.7,PROV-012,60,True
+MAT-100005,Vitaminas producto 005,Vitaminas,Farma,UND,19.82,PROV-003,7,False
+MAT-100006,Material médico producto 006,Material médico,Insumos,UND,19.32,PROV-014,60,True
+MAT-100007,Vitaminas producto 007,Vitaminas,Farma,UND,58.48,PROV-012,60,True
+MAT-100008,Antibióticos producto 008,Antibióticos,Farma,UND,21.34,PROV-023,7,False
+MAT-100009,Analgésicos producto 009,Analgésicos,Farma,UND,10.88,PROV-024,90,True
+MAT-100010,Vitaminas producto 010,Vitaminas,Farma,UND,27.26,PROV-019,30,False
+MAT-100011,Antibióticos producto 011,Antibióticos,Farma,UND,9.55,PROV-018,15,False
+MAT-100012,Higiene personal producto 012,Higiene personal,Consumo,UND,12.62,PROV-012,60,True
+MAT-100013,Higiene personal producto 013,Higiene personal,Consumo,UND,9.87,PROV-020,60,True
+MAT-100014,Vitaminas producto 014,Vitaminas,Farma,UND,22.99,PROV-021,45,True
+MAT-100015,Analgésicos producto 015,Analgésicos,Farma,UND,4.6,PROV-021,60,True
+MAT-100016,Higiene personal producto 016,Higiene personal,Consumo,UND,18.51,PROV-001,60,True
+MAT-100017,Vitaminas producto 017,Vitaminas,Farma,UND,37.57,PROV-001,7,False
+MAT-100018,Higiene personal producto 018,Higiene personal,Consumo,UND,13.36,PROV-004,30,False
+MAT-100019,Material médico producto 019,Material médico,Insumos,UND,19.41,PROV-015,30,False
+MAT-100020,Antibióticos producto 020,Antibióticos,Farma,UND,6.08,PROV-014,30,False
+MAT-100021,Antibióticos producto 021,Antibióticos,Farma,UND,19.3,PROV-025,15,False
+MAT-100022,Analgésicos producto 022,Analgésicos,Farma,UND,5.66,PROV-022,15,False
+MAT-100023,Higiene personal producto 023,Higiene personal,Consumo,UND,15.25,PROV-013,45,True
+MAT-100024,Vitaminas producto 024,Vitaminas,Farma,UND,50.33,PROV-020,15,False
+MAT-100025,Analgésicos producto 025,Analgésicos,Farma,UND,3.17,PROV-020,30,False
+MAT-100026,Analgésicos producto 026,Analgésicos,Farma,UND,8.51,PROV-019,15,False
+MAT-100027,Higiene personal producto 027,Higiene personal,Consumo,UND,12.82,PROV-005,15,False
+MAT-100028,Higiene personal producto 028,Higiene personal,Consumo,UND,10.96,PROV-010,7,False
+MAT-100029,Analgésicos producto 029,Analgésicos,Farma,UND,14.5,PROV-010,45,True
+MAT-100030,Antibióticos producto 030,Antibióticos,Farma,UND,38.92,PROV-023,60,True
+MAT-100031,Higiene personal producto 031,Higiene personal,Consumo,UND,12.89,PROV-019,7,False
+MAT-100032,Envases producto 032,Envases,Insumos,MIL,79.25,PROV-007,15,False
+MAT-100033,Antibióticos producto 033,Antibióticos,Farma,UND,25.27,PROV-014,60,True
+MAT-100034,Higiene personal producto 034,Higiene personal,Consumo,UND,18.83,PROV-005,30,False
+MAT-100035,Higiene personal producto 035,Higiene personal,Consumo,UND,15.85,PROV-003,7,False
+MAT-100036,Vitaminas producto 036,Vitaminas,Farma,UND,10.16,PROV-017,30,False
+MAT-100037,Vitaminas producto 037,Vitaminas,Farma,UND,15.52,PROV-017,30,False
+MAT-100038,Analgésicos producto 038,Analgésicos,Farma,UND,14.03,PROV-003,30,False
+MAT-100039,Vitaminas producto 039,Vitaminas,Farma,UND,38.73,PROV-008,90,True
+MAT-100040,Dermocosmética producto 040,Dermocosmética,Consumo,UND,73.05,PROV-001,7,False
+MAT-100041,Dermocosmética producto 041,Dermocosmética,Consumo,UND,50.28,PROV-012,30,False
+MAT-100042,Dermocosmética producto 042,Dermocosmética,Consumo,UND,32.82,PROV-024,15,False
+MAT-100043,Dermocosmética producto 043,Dermocosmética,Consumo,UND,46.24,PROV-008,60,True
+MAT-100044,Material médico producto 044,Material médico,Insumos,UND,5.07,PROV-001,30,False
+MAT-100045,Analgésicos producto 045,Analgésicos,Farma,UND,10.74,PROV-003,45,True
+MAT-100046,Higiene personal producto 046,Higiene personal,Consumo,UND,19.91,PROV-008,7,False
+MAT-100047,Envases producto 047,Envases,Insumos,MIL,49.93,PROV-006,30,False
+MAT-100048,Vitaminas producto 048,Vitaminas,Farma,UND,51.15,PROV-001,60,True
+MAT-100049,Antibióticos producto 049,Antibióticos,Farma,UND,38.35,PROV-016,30,False
+MAT-100050,Antibióticos producto 050,Antibióticos,Farma,UND,37.76,PROV-008,15,False
+MAT-100051,Analgésicos producto 051,Analgésicos,Farma,UND,7.66,PROV-025,60,True
+MAT-100052,Higiene personal producto 052,Higiene personal,Consumo,UND,22.6,PROV-025,60,True
+MAT-100053,Dermocosmética producto 053,Dermocosmética,Consumo,UND,36.64,PROV-001,45,True
+MAT-100054,Vitaminas producto 054,Vitaminas,Farma,UND,12.91,PROV-020,45,True
+MAT-100055,Antibióticos producto 055,Antibióticos,Farma,UND,37.79,PROV-024,7,False
+MAT-100056,Material médico producto 056,Material médico,Insumos,UND,5.45,PROV-007,15,False
+MAT-100057,Dermocosmética producto 057,Dermocosmética,Consumo,UND,80.22,PROV-002,15,False
+MAT-100058,Material médico producto 058,Material médico,Insumos,UND,29.18,PROV-005,30,False
+MAT-100059,Analgésicos producto 059,Analgésicos,Farma,UND,2.18,PROV-005,7,False
+MAT-100060,Higiene personal producto 060,Higiene personal,Consumo,UND,5.68,PROV-006,30,False
+MAT-100061,Higiene personal producto 061,Higiene personal,Consumo,UND,15.78,PROV-011,60,True
+MAT-100062,Higiene personal producto 062,Higiene personal,Consumo,UND,19.26,PROV-005,7,False
+MAT-100063,Analgésicos producto 063,Analgésicos,Farma,UND,14.06,PROV-003,15,False
+MAT-100064,Dermocosmética producto 064,Dermocosmética,Consumo,UND,63.7,PROV-010,90,True
+MAT-100065,Antibióticos producto 065,Antibióticos,Farma,UND,37.37,PROV-013,30,False
+MAT-100066,Higiene personal producto 066,Higiene personal,Consumo,UND,5.33,PROV-001,7,False
+MAT-100067,Vitaminas producto 067,Vitaminas,Farma,UND,58.24,PROV-005,90,True
+MAT-100068,Material médico producto 068,Material médico,Insumos,UND,14.55,PROV-015,60,True
+MAT-100069,Analgésicos producto 069,Analgésicos,Farma,UND,3.42,PROV-008,60,True
+MAT-100070,Antibióticos producto 070,Antibióticos,Farma,UND,23.58,PROV-021,45,True
+MAT-100071,Material médico producto 071,Material médico,Insumos,UND,18.49,PROV-008,15,False
+MAT-100072,Vitaminas producto 072,Vitaminas,Farma,UND,41.9,PROV-011,60,True
+MAT-100073,Vitaminas producto 073,Vitaminas,Farma,UND,20.89,PROV-007,45,True
+MAT-100074,Material médico producto 074,Material médico,Insumos,UND,4.05,PROV-006,7,False
+MAT-100075,Dermocosmética producto 075,Dermocosmética,Consumo,UND,23.4,PROV-005,15,False
+MAT-100076,Analgésicos producto 076,Analgésicos,Farma,UND,13.97,PROV-021,15,False
+MAT-100077,Antibióticos producto 077,Antibióticos,Farma,UND,10.38,PROV-012,7,False
+MAT-100078,Analgésicos producto 078,Analgésicos,Farma,UND,4.27,PROV-003,7,False
+MAT-100079,Dermocosmética producto 079,Dermocosmética,Consumo,UND,65.1,PROV-021,15,False
+MAT-100080,Dermocosmética producto 080,Dermocosmética,Consumo,UND,80.25,PROV-010,60,True
+MAT-100081,Analgésicos producto 081,Analgésicos,Farma,UND,4.36,PROV-023,15,False
+MAT-100082,Dermocosmética producto 082,Dermocosmética,Consumo,UND,44.47,PROV-006,7,False
+MAT-100083,Vitaminas producto 083,Vitaminas,Farma,UND,35.24,PROV-023,60,True
+MAT-100084,Analgésicos producto 084,Analgésicos,Farma,UND,14.02,PROV-003,7,False
+MAT-100085,Material médico producto 085,Material médico,Insumos,UND,27.18,PROV-006,60,True
+MAT-100086,Material médico producto 086,Material médico,Insumos,UND,19.63,PROV-025,60,True
+MAT-100087,Analgésicos producto 087,Analgésicos,Farma,UND,8.97,PROV-009,60,True
+MAT-100088,Dermocosmética producto 088,Dermocosmética,Consumo,UND,42.04,PROV-013,45,True
+MAT-100089,Antibióticos producto 089,Antibióticos,Farma,UND,9.89,PROV-011,30,False
+MAT-100090,Antibióticos producto 090,Antibióticos,Farma,UND,17.86,PROV-012,15,False
+MAT-100091,Vitaminas producto 091,Vitaminas,Farma,UND,27.73,PROV-005,15,False
+MAT-100092,Envases producto 092,Envases,Insumos,MIL,139.13,PROV-018,30,False
+MAT-100093,Vitaminas producto 093,Vitaminas,Farma,UND,35.84,PROV-025,45,True
+MAT-100094,Material médico producto 094,Material médico,Insumos,UND,16.45,PROV-022,45,True
+MAT-100095,Antibióticos producto 095,Antibióticos,Farma,UND,30.72,PROV-001,45,True
+MAT-100096,Material médico producto 096,Material médico,Insumos,UND,4.83,PROV-006,45,True
+MAT-100097,Analgésicos producto 097,Analgésicos,Farma,UND,11.43,PROV-015,90,True
+MAT-100098,Analgésicos producto 098,Analgésicos,Farma,UND,14.47,PROV-003,60,True
+MAT-100099,Dermocosmética producto 099,Dermocosmética,Consumo,UND,73.04,PROV-025,90,True
+MAT-100100,Antibióticos producto 100,Antibióticos,Farma,UND,25.65,PROV-020,7,False
+MAT-100101,Higiene personal producto 101,Higiene personal,Consumo,UND,6.77,PROV-004,30,False
+MAT-100102,Dermocosmética producto 102,Dermocosmética,Consumo,UND,52.77,PROV-015,60,True
+MAT-100103,Material médico producto 103,Material médico,Insumos,UND,15.27,PROV-006,90,True
+MAT-100104,Analgésicos producto 104,Analgésicos,Farma,UND,3.52,PROV-015,7,False
+MAT-100105,Higiene personal producto 105,Higiene personal,Consumo,UND,12.21,PROV-024,45,True
+MAT-100106,Vitaminas producto 106,Vitaminas,Farma,UND,54.72,PROV-020,60,True
+MAT-100107,Antibióticos producto 107,Antibióticos,Farma,UND,17.75,PROV-014,15,False
+MAT-100108,Analgésicos producto 108,Analgésicos,Farma,UND,14.17,PROV-008,30,False
+MAT-100109,Vitaminas producto 109,Vitaminas,Farma,UND,45.94,PROV-005,90,True
+MAT-100110,Material médico producto 110,Material médico,Insumos,UND,14.9,PROV-014,15,False
+MAT-100111,Envases producto 111,Envases,Insumos,MIL,113.31,PROV-022,7,False
+MAT-100112,Material médico producto 112,Material médico,Insumos,UND,19.48,PROV-024,7,False
+MAT-100113,Dermocosmética producto 113,Dermocosmética,Consumo,UND,65.52,PROV-014,30,False
+MAT-100114,Material médico producto 114,Material médico,Insumos,UND,9.57,PROV-001,30,False
+MAT-100115,Vitaminas producto 115,Vitaminas,Farma,UND,23.7,PROV-013,60,True
+MAT-100116,Analgésicos producto 116,Analgésicos,Farma,UND,14.96,PROV-023,60,True
+MAT-100117,Antibióticos producto 117,Antibióticos,Farma,UND,34.29,PROV-002,90,True
+MAT-100118,Higiene personal producto 118,Higiene personal,Consumo,UND,17.3,PROV-003,7,False
+MAT-100119,Material médico producto 119,Material médico,Insumos,UND,1.84,PROV-007,7,False
+MAT-100120,Material médico producto 120,Material médico,Insumos,UND,6.75,PROV-007,90,True
+MAT-100121,Higiene personal producto 121,Higiene personal,Consumo,UND,3.8,PROV-001,7,False
+MAT-100122,Higiene personal producto 122,Higiene personal,Consumo,UND,20.63,PROV-001,15,False
+MAT-100123,Material médico producto 123,Material médico,Insumos,UND,2.66,PROV-017,90,True
+MAT-100124,Material médico producto 124,Material médico,Insumos,UND,21.25,PROV-021,60,True
+MAT-100125,Analgésicos producto 125,Analgésicos,Farma,UND,4.62,PROV-003,30,False
+MAT-100126,Higiene personal producto 126,Higiene personal,Consumo,UND,16.86,PROV-004,60,True
+MAT-100127,Analgésicos producto 127,Analgésicos,Farma,UND,11.55,PROV-002,15,False
+MAT-100128,Higiene personal producto 128,Higiene personal,Consumo,UND,24.56,PROV-005,45,True
+MAT-100129,Analgésicos producto 129,Analgésicos,Farma,UND,10.01,PROV-001,60,True
+MAT-100130,Higiene personal producto 130,Higiene personal,Consumo,UND,6.81,PROV-002,7,False
+MAT-100131,Antibióticos producto 131,Antibióticos,Farma,UND,39.3,PROV-015,60,True
+MAT-100132,Higiene personal producto 132,Higiene personal,Consumo,UND,15.59,PROV-012,7,False
+MAT-100133,Envases producto 133,Envases,Insumos,MIL,59.17,PROV-011,45,True
+MAT-100134,Higiene personal producto 134,Higiene personal,Consumo,UND,23.69,PROV-015,7,False
+MAT-100135,Dermocosmética producto 135,Dermocosmética,Consumo,UND,43.51,PROV-023,7,False
+MAT-100136,Analgésicos producto 136,Analgésicos,Farma,UND,5.61,PROV-012,15,False
+MAT-100137,Vitaminas producto 137,Vitaminas,Farma,UND,39.77,PROV-011,30,False
+MAT-100138,Vitaminas producto 138,Vitaminas,Farma,UND,19.32,PROV-016,30,False
+MAT-100139,Antibióticos producto 139,Antibióticos,Farma,UND,6.26,PROV-008,30,False
+MAT-100140,Antibióticos producto 140,Antibióticos,Farma,UND,25.04,PROV-011,30,False
+MAT-100141,Higiene personal producto 141,Higiene personal,Consumo,UND,17.25,PROV-015,15,False
+MAT-100142,Material médico producto 142,Material médico,Insumos,UND,16.93,PROV-017,30,False
+MAT-100143,Higiene personal producto 143,Higiene personal,Consumo,UND,10.93,PROV-025,45,True
+MAT-100144,Material médico producto 144,Material médico,Insumos,UND,27.71,PROV-013,30,False
+MAT-100145,Dermocosmética producto 145,Dermocosmética,Consumo,UND,74.39,PROV-007,60,True
+MAT-100146,Dermocosmética producto 146,Dermocosmética,Consumo,UND,21.04,PROV-008,7,False
+MAT-100147,Material médico producto 147,Material médico,Insumos,UND,2.61,PROV-002,15,False
+MAT-100148,Analgésicos producto 148,Analgésicos,Farma,UND,6.08,PROV-008,45,True
+MAT-100149,Analgésicos producto 149,Analgésicos,Farma,UND,12.75,PROV-018,15,False
+MAT-100150,Analgésicos producto 150,Analgésicos,Farma,UND,9.81,PROV-022,7,False
+MAT-100151,Vitaminas producto 151,Vitaminas,Farma,UND,57.84,PROV-002,60,True
+MAT-100152,Antibióticos producto 152,Antibióticos,Farma,UND,29.07,PROV-025,45,True
+MAT-100153,Vitaminas producto 153,Vitaminas,Farma,UND,41.33,PROV-009,15,False
+MAT-100154,Dermocosmética producto 154,Dermocosmética,Consumo,UND,24.77,PROV-001,15,False
+MAT-100155,Material médico producto 155,Material médico,Insumos,UND,29.68,PROV-024,60,True
+MAT-100156,Envases producto 156,Envases,Insumos,MIL,38.41,PROV-014,30,False
+MAT-100157,Vitaminas producto 157,Vitaminas,Farma,UND,12.16,PROV-021,30,False
+MAT-100158,Dermocosmética producto 158,Dermocosmética,Consumo,UND,23.75,PROV-019,15,False
+MAT-100159,Envases producto 159,Envases,Insumos,MIL,25.8,PROV-016,15,False
+MAT-100160,Dermocosmética producto 160,Dermocosmética,Consumo,UND,57.74,PROV-006,30,False
+MAT-100161,Analgésicos producto 161,Analgésicos,Farma,UND,5.17,PROV-022,45,True
+MAT-100162,Higiene personal producto 162,Higiene personal,Consumo,UND,17.74,PROV-022,60,True
+MAT-100163,Analgésicos producto 163,Analgésicos,Farma,UND,6.77,PROV-019,15,False
+MAT-100164,Material médico producto 164,Material médico,Insumos,UND,14.99,PROV-014,60,True
+MAT-100165,Material médico producto 165,Material médico,Insumos,UND,15.64,PROV-011,30,False
+MAT-100166,Material médico producto 166,Material médico,Insumos,UND,10.88,PROV-023,30,False
+MAT-100167,Dermocosmética producto 167,Dermocosmética,Consumo,UND,20.19,PROV-001,90,True
+MAT-100168,Higiene personal producto 168,Higiene personal,Consumo,UND,6.91,PROV-010,15,False
+MAT-100169,Antibióticos producto 169,Antibióticos,Farma,UND,5.87,PROV-016,30,False
+MAT-100170,Antibióticos producto 170,Antibióticos,Farma,UND,25.95,PROV-024,7,False
+MAT-100171,Antibióticos producto 171,Antibióticos,Farma,UND,29.61,PROV-014,90,True
+MAT-100172,Higiene personal producto 172,Higiene personal,Consumo,UND,13.51,PROV-016,60,True
+MAT-100173,Envases producto 173,Envases,Insumos,MIL,113.69,PROV-008,60,True
+MAT-100174,Material médico producto 174,Material médico,Insumos,UND,4.31,PROV-025,45,True
+MAT-100175,Vitaminas producto 175,Vitaminas,Farma,UND,36.76,PROV-025,90,True
+MAT-100176,Envases producto 176,Envases,Insumos,MIL,57.47,PROV-017,45,True
+MAT-100177,Higiene personal producto 177,Higiene personal,Consumo,UND,10.62,PROV-001,7,False
+MAT-100178,Material médico producto 178,Material médico,Insumos,UND,15.2,PROV-004,90,True
+MAT-100179,Dermocosmética producto 179,Dermocosmética,Consumo,UND,88.28,PROV-007,60,True
+MAT-100180,Analgésicos producto 180,Analgésicos,Farma,UND,9.22,PROV-011,60,True
+MAT-100181,Envases producto 181,Envases,Insumos,MIL,126.94,PROV-006,15,False
+MAT-100182,Analgésicos producto 182,Analgésicos,Farma,UND,3.42,PROV-001,45,True
+MAT-100183,Higiene personal producto 183,Higiene personal,Consumo,UND,20.02,PROV-001,45,True
+MAT-100184,Material médico producto 184,Material médico,Insumos,UND,2.42,PROV-022,15,False
+MAT-100185,Higiene personal producto 185,Higiene personal,Consumo,UND,21.88,PROV-012,30,False
+MAT-100186,Higiene personal producto 186,Higiene personal,Consumo,UND,3.65,PROV-001,30,False
+MAT-100187,Material médico producto 187,Material médico,Insumos,UND,20.48,PROV-007,60,True
+MAT-100188,Vitaminas producto 188,Vitaminas,Farma,UND,52.37,PROV-006,15,False
+MAT-100189,Dermocosmética producto 189,Dermocosmética,Consumo,UND,42.96,PROV-003,60,True
+MAT-100190,Antibióticos producto 190,Antibióticos,Farma,UND,7.97,PROV-007,15,False
+MAT-100191,Higiene personal producto 191,Higiene personal,Consumo,UND,20.76,PROV-014,15,False
+MAT-100192,Vitaminas producto 192,Vitaminas,Farma,UND,15.11,PROV-025,30,False
+MAT-100193,Envases producto 193,Envases,Insumos,MIL,111.11,PROV-019,15,False
+MAT-100194,Envases producto 194,Envases,Insumos,MIL,84.6,PROV-015,7,False
+MAT-100195,Vitaminas producto 195,Vitaminas,Farma,UND,11.49,PROV-009,7,False
+MAT-100196,Vitaminas producto 196,Vitaminas,Farma,UND,41.0,PROV-006,15,False
+MAT-100197,Vitaminas producto 197,Vitaminas,Farma,UND,57.88,PROV-025,30,False
+MAT-100198,Antibióticos producto 198,Antibióticos,Farma,UND,36.39,PROV-019,15,False
+MAT-100199,Vitaminas producto 199,Vitaminas,Farma,UND,55.27,PROV-008,45,True
+MAT-100200,Dermocosmética producto 200,Dermocosmética,Consumo,UND,62.97,PROV-014,15,False
+MAT-100201,Antibióticos producto 201,Antibióticos,Farma,UND,16.29,PROV-005,60,True
+MAT-100202,Antibióticos producto 202,Antibióticos,Farma,UND,24.65,PROV-004,60,True
+MAT-100203,Material médico producto 203,Material médico,Insumos,UND,13.71,PROV-022,90,True
+MAT-100204,Higiene personal producto 204,Higiene personal,Consumo,UND,20.92,PROV-012,90,True
+MAT-100205,Material médico producto 205,Material médico,Insumos,UND,6.37,PROV-005,7,False
+MAT-100206,Higiene personal producto 206,Higiene personal,Consumo,UND,24.02,PROV-015,30,False
+MAT-100207,Vitaminas producto 207,Vitaminas,Farma,UND,9.86,PROV-024,7,False
+MAT-100208,Analgésicos producto 208,Analgésicos,Farma,UND,5.2,PROV-024,7,False
+MAT-100209,Vitaminas producto 209,Vitaminas,Farma,UND,34.84,PROV-020,7,False
+MAT-100210,Analgésicos producto 210,Analgésicos,Farma,UND,7.0,PROV-008,7,False
+MAT-100211,Higiene personal producto 211,Higiene personal,Consumo,UND,7.55,PROV-025,15,False
+MAT-100212,Vitaminas producto 212,Vitaminas,Farma,UND,8.09,PROV-008,7,False
+MAT-100213,Material médico producto 213,Material médico,Insumos,UND,1.04,PROV-003,30,False
+MAT-100214,Vitaminas producto 214,Vitaminas,Farma,UND,30.43,PROV-013,60,True
+MAT-100215,Material médico producto 215,Material médico,Insumos,UND,8.55,PROV-006,15,False
+MAT-100216,Dermocosmética producto 216,Dermocosmética,Consumo,UND,65.29,PROV-009,15,False
+MAT-100217,Vitaminas producto 217,Vitaminas,Farma,UND,56.38,PROV-013,30,False
+MAT-100218,Higiene personal producto 218,Higiene personal,Consumo,UND,6.31,PROV-002,7,False
+MAT-100219,Analgésicos producto 219,Analgésicos,Farma,UND,13.94,PROV-003,15,False
+MAT-100220,Analgésicos producto 220,Analgésicos,Farma,UND,3.44,PROV-001,45,True
+MAT-100221,Antibióticos producto 221,Antibióticos,Farma,UND,24.92,PROV-006,60,True
+MAT-100222,Analgésicos producto 222,Analgésicos,Farma,UND,13.09,PROV-015,45,True
+MAT-100223,Analgésicos producto 223,Analgésicos,Farma,UND,12.05,PROV-025,15,False
+MAT-100224,Envases producto 224,Envases,Insumos,MIL,79.08,PROV-022,45,True
+MAT-100225,Envases producto 225,Envases,Insumos,MIL,67.0,PROV-019,15,False
+MAT-100226,Material médico producto 226,Material médico,Insumos,UND,18.42,PROV-021,15,False
+MAT-100227,Vitaminas producto 227,Vitaminas,Farma,UND,24.52,PROV-021,7,False
+MAT-100228,Vitaminas producto 228,Vitaminas,Farma,UND,8.99,PROV-002,15,False
+MAT-100229,Higiene personal producto 229,Higiene personal,Consumo,UND,18.58,PROV-008,15,False
+MAT-100230,Material médico producto 230,Material médico,Insumos,UND,18.22,PROV-019,7,False
+MAT-100231,Analgésicos producto 231,Analgésicos,Farma,UND,11.01,PROV-002,30,False
+MAT-100232,Envases producto 232,Envases,Insumos,MIL,20.52,PROV-005,7,False
+MAT-100233,Envases producto 233,Envases,Insumos,MIL,96.0,PROV-010,60,True
+MAT-100234,Material médico producto 234,Material médico,Insumos,UND,16.55,PROV-004,45,True
+MAT-100235,Antibióticos producto 235,Antibióticos,Farma,UND,6.77,PROV-012,15,False
+MAT-100236,Higiene personal producto 236,Higiene personal,Consumo,UND,21.4,PROV-015,7,False
+MAT-100237,Dermocosmética producto 237,Dermocosmética,Consumo,UND,30.04,PROV-022,15,False
+MAT-100238,Higiene personal producto 238,Higiene personal,Consumo,UND,15.18,PROV-022,15,False
+MAT-100239,Higiene personal producto 239,Higiene personal,Consumo,UND,18.97,PROV-020,60,True
+MAT-100240,Envases producto 240,Envases,Insumos,MIL,74.51,PROV-015,30,False
+MAT-100241,Analgésicos producto 241,Analgésicos,Farma,UND,12.35,PROV-009,30,False
+MAT-100242,Analgésicos producto 242,Analgésicos,Farma,UND,13.57,PROV-014,15,False
+MAT-100243,Higiene personal producto 243,Higiene personal,Consumo,UND,6.29,PROV-009,15,False
+MAT-100244,Antibióticos producto 244,Antibióticos,Farma,UND,35.06,PROV-025,90,True
+MAT-100245,Antibióticos producto 245,Antibióticos,Farma,UND,21.44,PROV-022,60,True
+MAT-100246,Vitaminas producto 246,Vitaminas,Farma,UND,34.89,PROV-019,45,True
+MAT-100247,Higiene personal producto 247,Higiene personal,Consumo,UND,20.23,PROV-024,7,False
+MAT-100248,Envases producto 248,Envases,Insumos,MIL,132.52,PROV-015,60,True
+MAT-100249,Analgésicos producto 249,Analgésicos,Farma,UND,4.66,PROV-011,7,False
+MAT-100250,Envases producto 250,Envases,Insumos,MIL,69.03,PROV-019,45,True
+MAT-100251,Material médico producto 251,Material médico,Insumos,UND,12.44,PROV-016,45,True
+MAT-100252,Dermocosmética producto 252,Dermocosmética,Consumo,UND,43.91,PROV-008,45,True
+MAT-100253,Envases producto 253,Envases,Insumos,MIL,80.79,PROV-002,15,False
+MAT-100254,Vitaminas producto 254,Vitaminas,Farma,UND,14.82,PROV-005,15,False
+MAT-100255,Higiene personal producto 255,Higiene personal,Consumo,UND,10.47,PROV-001,15,False
+MAT-100256,Analgésicos producto 256,Analgésicos,Farma,UND,11.8,PROV-024,60,True
+MAT-100257,Antibióticos producto 257,Antibióticos,Farma,UND,12.07,PROV-025,30,False
+MAT-100258,Dermocosmética producto 258,Dermocosmética,Consumo,UND,32.24,PROV-005,7,False
+MAT-100259,Dermocosmética producto 259,Dermocosmética,Consumo,UND,86.83,PROV-007,30,False
+MAT-100260,Analgésicos producto 260,Analgésicos,Farma,UND,5.28,PROV-017,15,False
+MAT-100261,Material médico producto 261,Material médico,Insumos,UND,26.42,PROV-020,90,True
+MAT-100262,Envases producto 262,Envases,Insumos,MIL,143.89,PROV-023,7,False
+MAT-100263,Analgésicos producto 263,Analgésicos,Farma,UND,5.96,PROV-006,7,False
+MAT-100264,Material médico producto 264,Material médico,Insumos,UND,18.89,PROV-014,30,False
+MAT-100265,Analgésicos producto 265,Analgésicos,Farma,UND,5.29,PROV-012,60,True
+MAT-100266,Dermocosmética producto 266,Dermocosmética,Consumo,UND,69.34,PROV-005,15,False
+MAT-100267,Vitaminas producto 267,Vitaminas,Farma,UND,29.05,PROV-003,60,True
+MAT-100268,Antibióticos producto 268,Antibióticos,Farma,UND,37.95,PROV-020,7,False
+MAT-100269,Material médico producto 269,Material médico,Insumos,UND,3.91,PROV-010,60,True
+MAT-100270,Analgésicos producto 270,Analgésicos,Farma,UND,7.38,PROV-007,30,False
+MAT-100271,Antibióticos producto 271,Antibióticos,Farma,UND,29.86,PROV-004,60,True
+MAT-100272,Vitaminas producto 272,Vitaminas,Farma,UND,35.6,PROV-022,15,False
+MAT-100273,Antibióticos producto 273,Antibióticos,Farma,UND,10.64,PROV-001,60,True
+MAT-100274,Material médico producto 274,Material médico,Insumos,UND,16.01,PROV-024,30,False
+MAT-100275,Dermocosmética producto 275,Dermocosmética,Consumo,UND,53.85,PROV-021,7,False
+MAT-100276,Analgésicos producto 276,Analgésicos,Farma,UND,14.38,PROV-011,30,False
+MAT-100277,Envases producto 277,Envases,Insumos,MIL,41.26,PROV-010,15,False
+MAT-100278,Antibióticos producto 278,Antibióticos,Farma,UND,6.05,PROV-014,7,False
+MAT-100279,Envases producto 279,Envases,Insumos,MIL,61.8,PROV-023,30,False
+MAT-100280,Vitaminas producto 280,Vitaminas,Farma,UND,35.66,PROV-016,15,False
+MAT-100281,Envases producto 281,Envases,Insumos,MIL,126.38,PROV-021,30,False
+MAT-100282,Analgésicos producto 282,Analgésicos,Farma,UND,13.97,PROV-019,15,False
+MAT-100283,Analgésicos producto 283,Analgésicos,Farma,UND,6.45,PROV-002,45,True
+MAT-100284,Higiene personal producto 284,Higiene personal,Consumo,UND,20.46,PROV-020,15,False
+MAT-100285,Envases producto 285,Envases,Insumos,MIL,76.94,PROV-008,7,False
+MAT-100286,Envases producto 286,Envases,Insumos,MIL,56.52,PROV-016,7,False
+MAT-100287,Vitaminas producto 287,Vitaminas,Farma,UND,14.71,PROV-011,45,True
+MAT-100288,Vitaminas producto 288,Vitaminas,Farma,UND,55.94,PROV-004,15,False
+MAT-100289,Higiene personal producto 289,Higiene personal,Consumo,UND,13.14,PROV-008,30,False
+MAT-100290,Dermocosmética producto 290,Dermocosmética,Consumo,UND,86.1,PROV-017,15,False
+MAT-100291,Analgésicos producto 291,Analgésicos,Farma,UND,10.82,PROV-025,7,False
+MAT-100292,Vitaminas producto 292,Vitaminas,Farma,UND,54.41,PROV-022,45,True
+MAT-100293,Envases producto 293,Envases,Insumos,MIL,89.08,PROV-019,15,False
+MAT-100294,Envases producto 294,Envases,Insumos,MIL,67.62,PROV-017,45,True
+MAT-100295,Vitaminas producto 295,Vitaminas,Farma,UND,37.21,PROV-004,30,False
+MAT-100296,Envases producto 296,Envases,Insumos,MIL,74.51,PROV-018,45,True
+MAT-100297,Vitaminas producto 297,Vitaminas,Farma,UND,29.22,PROV-012,7,False
+MAT-100298,Analgésicos producto 298,Analgésicos,Farma,UND,10.68,PROV-012,45,True
+MAT-100299,Higiene personal producto 299,Higiene personal,Consumo,UND,3.43,PROV-023,15,False
+MAT-100300,Material médico producto 300,Material médico,Insumos,UND,25.96,PROV-009,15,False
